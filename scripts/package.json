@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "knitout": "^1.0.3",
+    "os": "^0.1.2",
+    "knittingutils": "github:MediaInteractionLab/knittingutils#v0.0.1"
+  }
+}
